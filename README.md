@@ -2,8 +2,3 @@
 
 Test files here
 
-creating a conflict there
-
-fvdfbdbd
-
-sdgbdfbdfb
